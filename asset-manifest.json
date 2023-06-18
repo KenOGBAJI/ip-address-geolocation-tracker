@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ip-address-geolocation-tracker/static/css/main.b245c5f1.css",
+    "main.js": "/ip-address-geolocation-tracker/static/js/main.f345f12f.js",
+    "static/media/pattern-bg-mobile.png": "/ip-address-geolocation-tracker/static/media/pattern-bg-mobile.3666aa38dccbc0ebd679.png",
+    "index.html": "/ip-address-geolocation-tracker/index.html",
+    "static/media/icon-location.svg": "/ip-address-geolocation-tracker/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
+    "static/media/icon-arrow.svg": "/ip-address-geolocation-tracker/static/media/icon-arrow.2eaaa5ee3602d5aa14a2dba69e9fb7a0.svg",
+    "main.b245c5f1.css.map": "/ip-address-geolocation-tracker/static/css/main.b245c5f1.css.map",
+    "main.f345f12f.js.map": "/ip-address-geolocation-tracker/static/js/main.f345f12f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b245c5f1.css",
+    "static/js/main.f345f12f.js"
+  ]
+}
